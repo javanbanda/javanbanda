@@ -27,7 +27,7 @@
   <img align="left" alt="Stefanie's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
 <a href="https://linkedin.com/in/javanbanda">
-  <img align="left" alt="Stefanie's LinkedIn" width="20px" src="https://simpleicons.now.sh/LinkedIn/495f7e" />
+  <img align="left" alt="Stefanie's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 <a href="https://behance.net/javankial">
   <img align="left" alt="Stefanie's Behance" width="20px" src="https://simpleicons.now.sh/behance/495f7e" />
